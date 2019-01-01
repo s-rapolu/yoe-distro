@@ -1,51 +1,51 @@
 [submodule "sources/bitbake"]
 	path = sources/bitbake
 	url = git://github.com/YoeDistro/bitbake.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/openembedded-core"]
 	path = sources/openembedded-core
 	url = git://github.com/YoeDistro/openembedded-core.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = git://github.com/YoeDistro/meta-openembedded.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-ti"]
 	path = sources/meta-ti
 	url = git://github.com/YoeDistro/meta-ti.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-browser"]
 	path = sources/meta-browser
 	url = git://github.com/YoeDistro/meta-browser.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-freescale"]
 	path = sources/meta-freescale
 	url = git://github.com/YoeDistro/meta-freescale
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-freescale-3rdparty"]
 	path = sources/meta-freescale-3rdparty
 	url = git://github.com/YoeDistro/meta-freescale-3rdparty.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-qt5"]
 	path = sources/meta-qt5
 	url = https://github.com/YoeDistro/meta-qt5.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-intel"]
 	path = sources/meta-intel
 	url = git://github.com/YoeDistro/meta-intel.git
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-raspberrypi"]
 	path = sources/meta-raspberrypi
 	url = git://github.com/YoeDistro/meta-raspberrypi
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-96boards"]
 	path = sources/meta-96boards
 	url = git://github.com/YoeDistro/meta-96boards
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-qcom"]
 	path = sources/meta-qcom
 	url = git://github.com/YoeDistro/meta-qcom
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-variscite-fslc"]
 	path = sources/meta-variscite-fslc
 	url = git://github.com/YoeDistro/meta-variscite-fslc.git
@@ -53,20 +53,20 @@
 [submodule "sources/meta-yoe"]
 	path = sources/meta-yoe
 	url = git://github.com/YoeDistro/meta-yoe
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-riscv"]
 	path = sources/meta-riscv
 	url = git://github.com/YoeDistro/meta-riscv
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-odroid"]
 	path = sources/meta-odroid
 	url = git://github.com/YoeDistro/meta-odroid
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-rust"]
 	path = sources/meta-rust
 	url = git://github.com/YoeDistro/meta-rust
-	branch = master
+	branch = yoe/mut
 [submodule "sources/meta-atmel"]
 	path = sources/meta-atmel
 	url = https://github.com/YoeDistro/meta-atmel
-	branch = yoe/master
+	branch = yoe/mut
