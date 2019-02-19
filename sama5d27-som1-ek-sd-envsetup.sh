@@ -1,13 +1,13 @@
 export MACHINE=sama5d27-som1-ek-sd
 
-. envsetup.sh
+. ./envsetup.sh
 
 yoe_sam_build_bootstrap_tools() {
   bitbake sam-ba
   bitbake at91bootstrap-sam-ba
 }
 
-SAMBA=${OE_BASE}/build/tmp/sysroots-components/x86_64/sam-ba-native/usr/bin/sam-ba_cdc_linux/sam-ba
+SAMBA=${OE_DEPLOY_DIR}/sam-ba/sam-ba
 BOOT=${OE_DEPLOY_DIR}/at91bootstrap-sama5d27_som1_ek.bin-sam-ba
 UBOOT=${OE_DEPLOY_DIR}/u-boot.bin
 
