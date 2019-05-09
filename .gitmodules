@@ -69,4 +69,4 @@
 [submodule "sources/meta-atmel"]
 	path = sources/meta-atmel
 	url = https://github.com/YoeDistro/meta-atmel
-	branch = yoe/master
+	branch = yoe/mut
