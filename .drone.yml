@@ -12,7 +12,7 @@ clone:
 trigger:
   branch:
     - master
-    - feature-drone-exec-runner
+    - yoe/mut
   event:
     - push
     - pull_request
