@@ -4,8 +4,8 @@
 	branch = master
 [submodule "sources/openembedded-core"]
 	path = sources/openembedded-core
-	url = https://github.com/YoeDistro/openembedded-core
-	branch = master
+	url = https://github.com/s-rapolu/openembedded-core
+	branch = srapolu/dropbear
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = https://github.com/YoeDistro/meta-openembedded
